@@ -7,8 +7,8 @@ import net.serenitybdd.screenplay.Actor;
 import net.serenitybdd.screenplay.ensure.Ensure;
 import starter.logon.LogOn;
 import starter.navigation.NavigateTo;
-import starter.search.LookForInformation;
-import starter.search.WikipediaArticle;
+//import starter.search.LookForInformation;
+//import starter.search.WikipediaArticle;
 import starter.logon.ProductPage;
 
 public class SauceDemoStepDefinitions {
