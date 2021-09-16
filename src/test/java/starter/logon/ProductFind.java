@@ -28,5 +28,11 @@ public class ProductFind {
         );
     }
 
+    public static Performable twitter(){
+        return Task.where("{0} clicks twitter link",
+                Click.on(ProductPage.PAGE_TWITTER)
+        );
+    }
+
 
 }
